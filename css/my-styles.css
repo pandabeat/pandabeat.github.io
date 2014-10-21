@@ -1,0 +1,82 @@
+/* Layout
+================================ */
+
+body {
+	padding-top: 50px;
+}
+.container {
+	max-width: 1000px;
+}
+
+#footer {
+	text-align: center;
+}
+
+/* Jumbotron
+================================ */
+
+.jumbotron {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+/* Flaticons
+================================ */
+
+#profile-main img {
+	display: block;
+	margin: 0 auto;
+	position: relative;
+}
+
+
+
+/* Profile 
+================================ */
+
+#profile-main h2 {
+	text-align: center;
+}
+
+.popup {
+	margin-top: -25px;
+    transition-duration: 0.5s;
+}
+
+#profile-main {
+	margin-top: 30px;
+}
+
+
+#profile-panel {
+	position: relative;
+	transition-duration: 0.5s;
+}
+
+/* Carousel
+================================ */
+
+.carousel-indicators {
+	bottom: 0;
+}
+.carousel-indicators .active {
+	background-color: #222;
+}
+.carousel-indicators li {
+	border-color: #222;
+}
+
+.carousel-inner img {
+	border-radius: 8px;
+}
+
+/* Text
+================================ */
+
+.emphasis {
+	font-style: italic;
+}
+
+
+
+
